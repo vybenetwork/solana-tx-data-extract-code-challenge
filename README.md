@@ -30,7 +30,7 @@ Please submit your code in a GitHub repository. It should include:
 
 1. Source code.
 2. Test files. (nice to have)
-3. A README file containing instructions on how to set up and run your application, including installing dependencies, running tests, starting the development server.
+3. A README file containing instructions on how to set up and run your application, including installing dependencies, running tests (if applicable), starting the development server.
 4. The file that contains the trade fills data.
 5. Any additional documentation you feel necessary to understand your assumptions, architecture design, and development decisions.
 
