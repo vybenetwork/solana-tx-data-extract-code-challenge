@@ -1,10 +1,11 @@
 # Solana TX Data Extract Code Challenge
 
- ## Challenge Description
+## Challenge Description
 
 Your challenge is to create a simple application implemented in language of your choice that will interact with the Solana blockchain, to fetch transactions data from the [Phoenix on-chain orderbook DEX](https://www.phoenix.trade/) program, decode the transactions, extract the trade fill events that have happened in the last 1k transactions, and store them in format of your choice (CSV, JSON, etc.).
 
-**RPC API & Resources**
+
+### RPC API & Resources
 
 Visit [Helius Dev Portal](https://dev.helius.xyz/dashboard/app), login in with your preferred method to retrieve your free API key, and set this as an environment variable in your app. 
 
@@ -14,17 +15,20 @@ Starting off with the [getSignaturesForAddress](https://docs.solana.com/api/http
 
 The [Phoenix SDK repo](https://github.com/Ellipsis-Labs/phoenix-sdk/tree/master) should help you to make sense of their data and logic and identify what you need to extract and store.
 
-**Testing (Nice to have, not a requirement)**
+
+### Testing (Nice to have, not a requirement)
 
 The application should include a basic suite of tests, at least covering the crucial functionality.
 
 100% code coverage isn't expected.
 
-**Development and Build Environment**
+
+### Development and Build Environment
 
 Your application should have a fully working development environment. Instructions should be provided on how to run the application in a development setting.
 
-**Submission Guidelines**
+
+### Submission Guidelines
 
 Please submit your code in a GitHub repository. It should include:
 
